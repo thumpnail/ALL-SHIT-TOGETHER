@@ -1,0 +1,10 @@
+Z:\nexus\Documents\Visual Studio 2017\Projects\R6SAcademyCupManager\R6SAcademyCupManager\bin\Debug\R6SAcademyCupManager.exe.config
+Z:\nexus\Documents\Visual Studio 2017\Projects\R6SAcademyCupManager\R6SAcademyCupManager\bin\Debug\R6SAcademyCupManager.exe
+Z:\nexus\Documents\Visual Studio 2017\Projects\R6SAcademyCupManager\R6SAcademyCupManager\bin\Debug\R6SAcademyCupManager.pdb
+Z:\nexus\Documents\Visual Studio 2017\Projects\R6SAcademyCupManager\R6SAcademyCupManager\obj\Debug\R6SAcademyCupManager.csprojResolveAssemblyReference.cache
+Z:\nexus\Documents\Visual Studio 2017\Projects\R6SAcademyCupManager\R6SAcademyCupManager\obj\Debug\R6SAcademyCupManager.Properties.Resources.resources
+Z:\nexus\Documents\Visual Studio 2017\Projects\R6SAcademyCupManager\R6SAcademyCupManager\obj\Debug\R6SAcademyCupManager.csproj.GenerateResource.Cache
+Z:\nexus\Documents\Visual Studio 2017\Projects\R6SAcademyCupManager\R6SAcademyCupManager\obj\Debug\R6SAcademyCupManager.csproj.CoreCompileInputs.cache
+Z:\nexus\Documents\Visual Studio 2017\Projects\R6SAcademyCupManager\R6SAcademyCupManager\obj\Debug\R6SAcademyCupManager.exe
+Z:\nexus\Documents\Visual Studio 2017\Projects\R6SAcademyCupManager\R6SAcademyCupManager\obj\Debug\R6SAcademyCupManager.pdb
+Z:\nexus\Documents\Visual Studio 2017\Projects\R6SAcademyCupManager\R6SAcademyCupManager\obj\Debug\R6SAcademyCupManager.Main.resources

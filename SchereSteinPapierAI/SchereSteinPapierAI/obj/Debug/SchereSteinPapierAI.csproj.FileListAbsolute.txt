@@ -1,0 +1,6 @@
+c:\users\gaming\source\repos\SchereSteinPapierAI\SchereSteinPapierAI\bin\Debug\SchereSteinPapierAI.exe.config
+c:\users\gaming\source\repos\SchereSteinPapierAI\SchereSteinPapierAI\bin\Debug\SchereSteinPapierAI.exe
+c:\users\gaming\source\repos\SchereSteinPapierAI\SchereSteinPapierAI\bin\Debug\SchereSteinPapierAI.pdb
+c:\users\gaming\source\repos\SchereSteinPapierAI\SchereSteinPapierAI\obj\Debug\SchereSteinPapierAI.csproj.CoreCompileInputs.cache
+c:\users\gaming\source\repos\SchereSteinPapierAI\SchereSteinPapierAI\obj\Debug\SchereSteinPapierAI.exe
+c:\users\gaming\source\repos\SchereSteinPapierAI\SchereSteinPapierAI\obj\Debug\SchereSteinPapierAI.pdb

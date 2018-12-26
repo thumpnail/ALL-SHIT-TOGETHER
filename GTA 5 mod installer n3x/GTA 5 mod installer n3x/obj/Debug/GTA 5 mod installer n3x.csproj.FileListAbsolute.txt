@@ -1,0 +1,10 @@
+Z:\nexus\Documents\Visual Studio 2017\Projects\GTA 5 mod installer n3x\GTA 5 mod installer n3x\bin\Debug\GTA 5 mod installer n3x.exe.config
+Z:\nexus\Documents\Visual Studio 2017\Projects\GTA 5 mod installer n3x\GTA 5 mod installer n3x\bin\Debug\GTA 5 mod installer n3x.exe
+Z:\nexus\Documents\Visual Studio 2017\Projects\GTA 5 mod installer n3x\GTA 5 mod installer n3x\bin\Debug\GTA 5 mod installer n3x.pdb
+Z:\nexus\Documents\Visual Studio 2017\Projects\GTA 5 mod installer n3x\GTA 5 mod installer n3x\obj\Debug\GTA 5 mod installer n3x.csprojAssemblyReference.cache
+Z:\nexus\Documents\Visual Studio 2017\Projects\GTA 5 mod installer n3x\GTA 5 mod installer n3x\obj\Debug\GTA 5 mod installer n3x.csproj.CoreCompileInputs.cache
+Z:\nexus\Documents\Visual Studio 2017\Projects\GTA 5 mod installer n3x\GTA 5 mod installer n3x\obj\Debug\GTA 5 mod installer n3x.exe
+Z:\nexus\Documents\Visual Studio 2017\Projects\GTA 5 mod installer n3x\GTA 5 mod installer n3x\obj\Debug\GTA 5 mod installer n3x.pdb
+Z:\nexus\Documents\Visual Studio 2017\Projects\GTA 5 mod installer n3x\GTA 5 mod installer n3x\bin\Debug\Newtonsoft.Json.dll
+Z:\nexus\Documents\Visual Studio 2017\Projects\GTA 5 mod installer n3x\GTA 5 mod installer n3x\bin\Debug\Newtonsoft.Json.xml
+Z:\nexus\Documents\Visual Studio 2017\Projects\GTA 5 mod installer n3x\GTA 5 mod installer n3x\obj\Debug\GTA 5 mod installer n3x.csproj.CopyComplete
